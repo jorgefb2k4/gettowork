@@ -8,7 +8,7 @@ GetToWork es una aplicación web desarrollada en PHP para gestionar la reserva d
 
 - Crear y gestionar perfiles de usuario
 - Reservar puestos de trabajo disponibles
-- Buscar puestos por disponibilidad y características
+- Buscar puestos por disponibilidad
 - Administrar reservas existentes
 - Gestión administratriva del sistema
 
