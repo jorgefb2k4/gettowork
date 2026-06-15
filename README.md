@@ -100,7 +100,7 @@ gettowork/
 | Email | Contraseña | Rol |
 |-------|-----------|-----|
 | admin@gmail.com | Passw0rd | Admin |
-| jorgefb2k4@gmail.com | Passw0rd | Admin |
+| user@gmail.com | Passw0rd | Admin |
 
 ## 📝 Notas de Desarrollo
 
