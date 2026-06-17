@@ -2,7 +2,7 @@
 
 Un sistema de reserva y gestión de puestos de trabajo flexible y colaborativo.
 
-## 📋 Descripción
+##  Descripción
 
 GetToWork es una aplicación web desarrollada en PHP para gestionar la reserva de puestos de trabajo en entornos colaborativos. Permite a los usuarios:
 
@@ -12,7 +12,7 @@ GetToWork es una aplicación web desarrollada en PHP para gestionar la reserva d
 - Administrar reservas existentes
 - Gestión administratriva del sistema
 
-## 🚀 Características
+##  Características
 
 - **Autenticación segura** con sesiones de usuario
 - **Gestión de usuarios** - crear, actualizar, eliminar y buscar usuarios
@@ -22,14 +22,14 @@ GetToWork es una aplicación web desarrollada en PHP para gestionar la reserva d
 - **Panel administrativo** - gestión completa del sistema
 - **Diseño responsivo** con Bulma CSS
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - **Backend:** PHP
 - **Base de datos:** MySQL
 - **Frontend:** HTML5, CSS (Bulma), JavaScript
 - **Servidor:** Apache (XAMPP)
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 gettowork/
@@ -44,11 +44,11 @@ gettowork/
 └── README.md              # Este archivo
 ```
 
-## 🔧 Instalación
+##  Instalación
 
 ### Requisitos
-- PHP 7.4+
-- MySQL 5.7+
+- PHP
+- MySQL
 - Apache
 - XAMPP o similar
 
@@ -72,7 +72,7 @@ gettowork/
    - Usuario: `admin@gmail.com`
    - Contraseña: `Passw0rd`
 
-## 📊 Estructura de Base de Datos
+##  Estructura de Base de Datos
 
 ### Tabla: usuarios
 - usuario_id (PK)
@@ -95,26 +95,25 @@ gettowork/
 - reserva_usuario_id (FK)
 - reserva_puesto_id (FK)
 
-## 👤 Usuarios por Defecto
+##  Usuarios por Defecto
 
 | Email | Contraseña | Rol |
 |-------|-----------|-----|
 | admin@gmail.com | Passw0rd | Admin |
 | user@gmail.com | Passw0rd | Admin |
 
-## 📝 Notas de Desarrollo
+##  Notas de Desarrollo
 
 - Ver `docs/gettoworkdb_manual.txt` para instrucciones de configuración de base de datos
 - Ver archivos de presentación en `docs/` para más contexto del proyecto
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto es parte de un Trabajo Fin de Grado (TFG).
 
-## 👨‍💻 Autor
+##  Autor
 
 **Jorge Fernández Bayo**
 
 ---
 
-**Nota:** Este es un proyecto educativo desarrollado como TFG (Trabajo Fin de Grado).
